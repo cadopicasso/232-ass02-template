@@ -160,7 +160,7 @@ int challenge03()
 
 int value = 10;
 
-int challenge04()//
+int challenge04()
 {
     int value = 25;
 
