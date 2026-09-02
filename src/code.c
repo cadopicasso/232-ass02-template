@@ -240,7 +240,7 @@ int challenge05()
 // The goal is to observe what the debugger shows you.
 // ============================================================
 
-int challenge06()//
+int challenge06()
 {
     int a = 7;
     int b = 2;
@@ -288,7 +288,7 @@ int challenge06()//
 //       *y represents the value stored at x's address.
 // ============================================================
 
-int challenge07()//
+int challenge07()
 {
     int x = 2;
 
@@ -336,7 +336,7 @@ int challenge07()//
 // These are NOT the same thing.
 // ============================================================
 
-int challenge08()//
+int challenge08()
 {
     int values[] = {10, 20, 30, 40, 50};
 
@@ -383,7 +383,7 @@ int challenge08()//
 // type.
 // ============================================================
 
-int challenge09()//
+int challenge09()
 {
     int values[] = {11, 22, 33, 44};
 
@@ -435,7 +435,7 @@ int challenge09()//
 //        x
 // ============================================================
 
-int challenge10()//
+int challenge10()
 {
     int x = 5;
     int *p = &x;
@@ -482,7 +482,7 @@ int add(int a, int b)
     return a + b;
 }
 
-int challenge11()//
+int challenge11()
 {
     int x = 7;
 
@@ -535,7 +535,7 @@ int calculate(int x)
     return transform(x + 2);
 }
 
-int challenge12()//
+int challenge12()
 {
     int result = calculate(4);
 
@@ -591,7 +591,7 @@ int mystery(int n)
     return 0;
 }
 
-int challenge13()//
+int challenge13()
 {
     int result = mystery(4);
 
