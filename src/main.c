@@ -1,3 +1,8 @@
+// Caden Johns
+// CSCI 232 Fall 2026
+// Programming Assignment #1
+// I declare that I am the author of this work, take full responsibility for it, and have disclosed any material external assistance.
+
 #define clearBuffer() while (getchar() != '\n');
 #include <stdio.h>
 #include <stdbool.h>
